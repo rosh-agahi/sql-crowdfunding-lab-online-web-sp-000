@@ -30,5 +30,15 @@ INSERT INTO users (name, age) VALUES ("Bryce", 27);
 INSERT INTO users (name, age) VALUES ("Colt", 27);
 INSERT INTO users (name, age) VALUES ("Zach", 28);
 
-INSERT INTO pledges (amount, user_id, project_id) VALUES ();
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 2);
+
 
