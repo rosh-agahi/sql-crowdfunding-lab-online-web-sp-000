@@ -1,1 +1,1 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Proj1", "Health", "")
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Proj1", "Health", 100000, "9/1/18", "9/30/19")
